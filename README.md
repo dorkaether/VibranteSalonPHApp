@@ -26,6 +26,65 @@ As for the user experience, we plan on making it as simple as we can considering
 
 The developers based this app to the age range of at least 14-60+ years, depending on their knowledge in using an application, or in general – a smartphone. While this may be a bit of a stretch but there’s probably people beyond this age range who may be interested in applications such as this.
 
+### V. Scopes and Features
+
+	
+•	Home – Also known as the Welcome page. Will feature a small information about the salon and links to current articles, if any. Also has a top header featuring the salon’s logo.
+  
+    •	Main Menu – This button is situated on the top left corner of the application.
+
+    •	Home button – assuming the user is on the home menu, this will probably be highlighted – or not. Otherwise, this leads back to the home page.
+
+    •	About Vibrante button – leads to the page containing information about the salon fully.
+
+    •	Services button – leads to the Services page, and information on what they offer.
+
+	  •	Gallery button – leads to a page full of images related to the salon. It may also house the images related to the previous pages.
+
+	  •	Contact Us button – leads to a page detailing the existing branches of the salon, and where to find them. Also includes contact information in case of appointments and extra information.
+
+	  •	Help button – leads to a tutorial page on the basics on how to navigate through the application. Probably a more detailed version of the scopes and features part of the project specifications.
+
+	  •	About Team button – a page about the team of developers behind the app, their purpose and when the application was developed.
+
+•	About Vibrante - is actually an extension to the small about info on the welcome page. This includes information about the owners and their team of experts. Images may or may not be in the Gallery.
+
+	  •	Details about their owners, the Creative Director and the Signature Stylist, are written here.
+
+	  •	Details about their team of experts, including their roles, are also written here.
+
+•	Services – contains the list of services they offer, their prices, and their trusted brands.
+
+•	 Gallery – All images are viewed in a page-like style, with occasional captions if any. Some images in there are probably in other pages too, when specified.
+
+•	Help – aka the Tutorial page of the application. Considering on how it is aimed to keep the app as simple as possible, the Help page will feature a set of small buttons and an image describing the help needed depending on the button that was pressed by the user. 
+
+It will probably be coded last, since the images shown are screenshots of the application itself. Including:
+
+    •	How to navigate – basic instructions on how to navigate on the application. This contains on how to navigate generally.
+
+      Further instructions include:
+
+	        •	How to navigate | Home – The home page contains at least three links to the articles that are hosted currently. This section explains on how to open them.
+
+	        •	How to navigate | Gallery – This section teaches the user how to navigate to the app’s gallery.
+	
+	        •	How to navigate | Menu – This section instructs the user how to browse through the app’s menu and how to access its pages.
+
+	        •	Main menu – details about the main menu are to be found here. It may or may not derived from the scopes and features, but it will surely be informative in order for the user to understand.
+
+•	About Team – The team behind the app! Includes the names and roles of the developers who made this application, a small description, their purpose and motivations, and how the application was made.
+
+Basically, it may include:
+
+	•	Team name
+	•	Name of developer/s
+	•	Roles they have
+	•	the purpose of the application
+	•	when it was developed
+	•	the reason why it was developed/the motivation behind the app
+	•	small acknowledgments to the other people involved in the project, if any (because that’s inevitable)
+	•	certain copyrights, if any
 --
 
 For tracking of milestones, please refer to the [Projects](https://github.com/dorkaether/VibranteSalonPHApp/projects) tab.
