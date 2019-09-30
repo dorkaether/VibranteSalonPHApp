@@ -10,7 +10,7 @@ If, however, you find this one because you have the link - then welcome.
 
 This repository's main purpose is to *keep track of the progress made* for this application, and to ease the compiling of codes between partners. For a less-than-obvious reason, for storage in case of... well, corrupted files.
 
---
+---
 
 ## !! NEW UPDATE !!
 Changelog:
@@ -20,9 +20,9 @@ The admin page is added per request of our professor. Said that it's for easy ac
 #### MILESTONE REACHED! First Milestone completed
 Hooray! I was certain that I won't be able to finish it until tomorrow, but apparently I finished it a lot earlier than I thought. Second Milestone will start tomorrow, depending on the results of the proposal.
 
---
+---
 
-### I. Project Description
+## I. Project Description
 
 The application’s purpose is to, well, advertise.
 
@@ -32,11 +32,11 @@ The application is expected to inform the user of the salon, and with all the in
 
 As for the user experience, we plan on making it as simple as we can considering the age range while keeping it’s elegant style scheme based on their colors – white, gold and black. Eventually, the application will be easy to navigate while having enough information at their fingertips – with buttons large enough to be tapped on but small enough not to ruin the symmetrical form of the whole design.
 
-### II. Potential Users
+## II. Potential Users
 
 The developers based this app to the age range of at least 14-60+ years, depending on their knowledge in using an application, or in general – a smartphone. While this may be a bit of a stretch but there’s probably people beyond this age range who may be interested in applications such as this.
 
-### V. Scopes and Features
+## III. Scopes and Features
 
 	
 •	Home – Also known as the Welcome page. Will feature a small information about the salon and links to current articles, if any. Also has a top header featuring the salon’s logo.
@@ -95,10 +95,10 @@ Basically, it may include:
 	•	the reason why it was developed/the motivation behind the app
 	•	small acknowledgments to the other people involved in the project, if any (because that’s inevitable)
 	◦ contains a button, which leads to the Admin page – Admin page exists to easily edit the prices on the Services page in case of changes.
---
+---
 
 For tracking of milestones, please refer to the [Projects](https://github.com/dorkaether/VibranteSalonPHApp/projects) tab.
 
---
+---
 
 [![Twitter: dracaether](https://img.shields.io/badge/Twitter-dracaether-%2300aced)](https://twitter.com/dracaether) 
