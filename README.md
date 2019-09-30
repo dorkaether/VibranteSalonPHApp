@@ -12,6 +12,16 @@ This repository's main purpose is to *keep track of the progress made* for this 
 
 --
 
+## !! NEW UPDATE !!
+Changelog:
+#### NEW! Admin page added
+The admin page is added per request of our professor. Said that it's for easy access to the Services page in case prices are in need of changing. Implementation of the Admin page is now included in the [Second Milestone](https://github.com/dorkaether/VibranteSalonPHApp/projects/2)
+
+#### MILESTONE REACHED! First Milestone completed
+Hooray! I was certain that I won't be able to finish it until tomorrow, but apparently I finished it a lot earlier than I thought. Second Milestone will start tomorrow, depending on the results of the proposal.
+
+--
+
 ### I. Project Description
 
 The application’s purpose is to, well, advertise.
@@ -39,13 +49,13 @@ The developers based this app to the age range of at least 14-60+ years, dependi
 
     •	Services button – leads to the Services page, and information on what they offer.
 
-	  •	Gallery button – leads to a page full of images related to the salon. It may also house the images related to the previous pages.
+	•	Gallery button – leads to a page full of images related to the salon. It may also house the images related to the previous pages.
 
-	  •	Contact Us button – leads to a page detailing the existing branches of the salon, and where to find them. Also includes contact information in case of appointments and extra information.
+	•	Contact Us button – leads to a page detailing the existing branches of the salon, and where to find them. Also includes contact information in case of appointments and extra information.
 
-	  •	Help button – leads to a tutorial page on the basics on how to navigate through the application. Probably a more detailed version of the scopes and features part of the project specifications.
+	•	Help button – leads to a tutorial page on the basics on how to navigate through the application. Probably a more detailed version of the scopes and features part of the project specifications.
 
-	  •	About Team button – a page about the team of developers behind the app, their purpose and when the application was developed.
+	•	About Team button – a page about the team of developers behind the app, their purpose and when the application was developed.
 
 •	About Vibrante - is actually an extension to the small about info on the welcome page. This includes information about the owners and their team of experts. Images may or may not be in the Gallery.
 
@@ -84,7 +94,7 @@ Basically, it may include:
 	•	when it was developed
 	•	the reason why it was developed/the motivation behind the app
 	•	small acknowledgments to the other people involved in the project, if any (because that’s inevitable)
-	•	certain copyrights, if any
+	◦ contains a button, which leads to the Admin page – Admin page exists to easily edit the prices on the Services page in case of changes.
 --
 
 For tracking of milestones, please refer to the [Projects](https://github.com/dorkaether/VibranteSalonPHApp/projects) tab.
