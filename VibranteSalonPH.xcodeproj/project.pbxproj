@@ -1,0 +1,620 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F2052FFD2341F51B00C5CA9C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2052FFC2341F51A00C5CA9C /* AppDelegate.swift */; };
+		F2052FFF2341F51B00C5CA9C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2052FFE2341F51B00C5CA9C /* ViewController.swift */; };
+		F20530022341F51B00C5CA9C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F20530002341F51B00C5CA9C /* Main.storyboard */; };
+		F20530052341F51B00C5CA9C /* VibranteSalonPH.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F20530032341F51B00C5CA9C /* VibranteSalonPH.xcdatamodeld */; };
+		F205300A2341F52100C5CA9C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F20530082341F52100C5CA9C /* LaunchScreen.storyboard */; };
+		F20530152341F52200C5CA9C /* VibranteSalonPHTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F20530142341F52200C5CA9C /* VibranteSalonPHTests.swift */; };
+		F20530202341F52200C5CA9C /* VibranteSalonPHUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F205301F2341F52200C5CA9C /* VibranteSalonPHUITests.swift */; };
+		F205302E2341FAE800C5CA9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F205302D2341FAE800C5CA9C /* Assets.xcassets */; };
+		F20530322342079B00C5CA9C /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F20530302342079A00C5CA9C /* SWRevealViewController.m */; };
+		F2053034234209C500C5CA9C /* VibranteMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2053033234209C500C5CA9C /* VibranteMenu.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F20530112341F52200C5CA9C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F2052FF12341F51A00C5CA9C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F2052FF82341F51A00C5CA9C;
+			remoteInfo = VibranteSalonPH;
+		};
+		F205301C2341F52200C5CA9C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F2052FF12341F51A00C5CA9C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F2052FF82341F51A00C5CA9C;
+			remoteInfo = VibranteSalonPH;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F2052FF92341F51A00C5CA9C /* VibranteSalonPH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VibranteSalonPH.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F2052FFC2341F51A00C5CA9C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F2052FFE2341F51B00C5CA9C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F20530012341F51B00C5CA9C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F20530042341F51B00C5CA9C /* VibranteSalonPH.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = VibranteSalonPH.xcdatamodel; sourceTree = "<group>"; };
+		F20530092341F52100C5CA9C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F205300B2341F52100C5CA9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F20530102341F52200C5CA9C /* VibranteSalonPHTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VibranteSalonPHTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F20530142341F52200C5CA9C /* VibranteSalonPHTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VibranteSalonPHTests.swift; sourceTree = "<group>"; };
+		F20530162341F52200C5CA9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F205301B2341F52200C5CA9C /* VibranteSalonPHUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VibranteSalonPHUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F205301F2341F52200C5CA9C /* VibranteSalonPHUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VibranteSalonPHUITests.swift; sourceTree = "<group>"; };
+		F20530212341F52200C5CA9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F205302D2341FAE800C5CA9C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = SOURCE_ROOT; };
+		F205302F2342079900C5CA9C /* VibranteSalonPH-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "VibranteSalonPH-Bridging-Header.h"; sourceTree = "<group>"; };
+		F20530302342079A00C5CA9C /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
+		F20530312342079A00C5CA9C /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
+		F2053033234209C500C5CA9C /* VibranteMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VibranteMenu.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F2052FF62341F51A00C5CA9C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F205300D2341F52200C5CA9C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F20530182341F52200C5CA9C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F2052FF02341F51A00C5CA9C = {
+			isa = PBXGroup;
+			children = (
+				F2052FFB2341F51A00C5CA9C /* VibranteSalonPH */,
+				F20530132341F52200C5CA9C /* VibranteSalonPHTests */,
+				F205301E2341F52200C5CA9C /* VibranteSalonPHUITests */,
+				F2052FFA2341F51A00C5CA9C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F2052FFA2341F51A00C5CA9C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F2052FF92341F51A00C5CA9C /* VibranteSalonPH.app */,
+				F20530102341F52200C5CA9C /* VibranteSalonPHTests.xctest */,
+				F205301B2341F52200C5CA9C /* VibranteSalonPHUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F2052FFB2341F51A00C5CA9C /* VibranteSalonPH */ = {
+			isa = PBXGroup;
+			children = (
+				F2052FFC2341F51A00C5CA9C /* AppDelegate.swift */,
+				F2053033234209C500C5CA9C /* VibranteMenu.swift */,
+				F2052FFE2341F51B00C5CA9C /* ViewController.swift */,
+				F20530002341F51B00C5CA9C /* Main.storyboard */,
+				F20530082341F52100C5CA9C /* LaunchScreen.storyboard */,
+				F205302D2341FAE800C5CA9C /* Assets.xcassets */,
+				F20530312342079A00C5CA9C /* SWRevealViewController.h */,
+				F20530302342079A00C5CA9C /* SWRevealViewController.m */,
+				F205300B2341F52100C5CA9C /* Info.plist */,
+				F20530032341F51B00C5CA9C /* VibranteSalonPH.xcdatamodeld */,
+				F205302F2342079900C5CA9C /* VibranteSalonPH-Bridging-Header.h */,
+			);
+			path = VibranteSalonPH;
+			sourceTree = "<group>";
+		};
+		F20530132341F52200C5CA9C /* VibranteSalonPHTests */ = {
+			isa = PBXGroup;
+			children = (
+				F20530142341F52200C5CA9C /* VibranteSalonPHTests.swift */,
+				F20530162341F52200C5CA9C /* Info.plist */,
+			);
+			path = VibranteSalonPHTests;
+			sourceTree = "<group>";
+		};
+		F205301E2341F52200C5CA9C /* VibranteSalonPHUITests */ = {
+			isa = PBXGroup;
+			children = (
+				F205301F2341F52200C5CA9C /* VibranteSalonPHUITests.swift */,
+				F20530212341F52200C5CA9C /* Info.plist */,
+			);
+			path = VibranteSalonPHUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F2052FF82341F51A00C5CA9C /* VibranteSalonPH */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F20530242341F52200C5CA9C /* Build configuration list for PBXNativeTarget "VibranteSalonPH" */;
+			buildPhases = (
+				F2052FF52341F51A00C5CA9C /* Sources */,
+				F2052FF62341F51A00C5CA9C /* Frameworks */,
+				F2052FF72341F51A00C5CA9C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = VibranteSalonPH;
+			productName = VibranteSalonPH;
+			productReference = F2052FF92341F51A00C5CA9C /* VibranteSalonPH.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F205300F2341F52200C5CA9C /* VibranteSalonPHTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F20530272341F52200C5CA9C /* Build configuration list for PBXNativeTarget "VibranteSalonPHTests" */;
+			buildPhases = (
+				F205300C2341F52200C5CA9C /* Sources */,
+				F205300D2341F52200C5CA9C /* Frameworks */,
+				F205300E2341F52200C5CA9C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F20530122341F52200C5CA9C /* PBXTargetDependency */,
+			);
+			name = VibranteSalonPHTests;
+			productName = VibranteSalonPHTests;
+			productReference = F20530102341F52200C5CA9C /* VibranteSalonPHTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F205301A2341F52200C5CA9C /* VibranteSalonPHUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F205302A2341F52200C5CA9C /* Build configuration list for PBXNativeTarget "VibranteSalonPHUITests" */;
+			buildPhases = (
+				F20530172341F52200C5CA9C /* Sources */,
+				F20530182341F52200C5CA9C /* Frameworks */,
+				F20530192341F52200C5CA9C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F205301D2341F52200C5CA9C /* PBXTargetDependency */,
+			);
+			name = VibranteSalonPHUITests;
+			productName = VibranteSalonPHUITests;
+			productReference = F205301B2341F52200C5CA9C /* VibranteSalonPHUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F2052FF12341F51A00C5CA9C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1030;
+				LastUpgradeCheck = 1030;
+				ORGANIZATIONNAME = "Team Octo";
+				TargetAttributes = {
+					F2052FF82341F51A00C5CA9C = {
+						CreatedOnToolsVersion = 10.3;
+						LastSwiftMigration = 1030;
+					};
+					F205300F2341F52200C5CA9C = {
+						CreatedOnToolsVersion = 10.3;
+						TestTargetID = F2052FF82341F51A00C5CA9C;
+					};
+					F205301A2341F52200C5CA9C = {
+						CreatedOnToolsVersion = 10.3;
+						TestTargetID = F2052FF82341F51A00C5CA9C;
+					};
+				};
+			};
+			buildConfigurationList = F2052FF42341F51A00C5CA9C /* Build configuration list for PBXProject "VibranteSalonPH" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F2052FF02341F51A00C5CA9C;
+			productRefGroup = F2052FFA2341F51A00C5CA9C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F2052FF82341F51A00C5CA9C /* VibranteSalonPH */,
+				F205300F2341F52200C5CA9C /* VibranteSalonPHTests */,
+				F205301A2341F52200C5CA9C /* VibranteSalonPHUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F2052FF72341F51A00C5CA9C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F205300A2341F52100C5CA9C /* LaunchScreen.storyboard in Resources */,
+				F205302E2341FAE800C5CA9C /* Assets.xcassets in Resources */,
+				F20530022341F51B00C5CA9C /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F205300E2341F52200C5CA9C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F20530192341F52200C5CA9C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F2052FF52341F51A00C5CA9C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F20530052341F51B00C5CA9C /* VibranteSalonPH.xcdatamodeld in Sources */,
+				F2053034234209C500C5CA9C /* VibranteMenu.swift in Sources */,
+				F2052FFF2341F51B00C5CA9C /* ViewController.swift in Sources */,
+				F2052FFD2341F51B00C5CA9C /* AppDelegate.swift in Sources */,
+				F20530322342079B00C5CA9C /* SWRevealViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F205300C2341F52200C5CA9C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F20530152341F52200C5CA9C /* VibranteSalonPHTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F20530172341F52200C5CA9C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F20530202341F52200C5CA9C /* VibranteSalonPHUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F20530122341F52200C5CA9C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F2052FF82341F51A00C5CA9C /* VibranteSalonPH */;
+			targetProxy = F20530112341F52200C5CA9C /* PBXContainerItemProxy */;
+		};
+		F205301D2341F52200C5CA9C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F2052FF82341F51A00C5CA9C /* VibranteSalonPH */;
+			targetProxy = F205301C2341F52200C5CA9C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		F20530002341F51B00C5CA9C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F20530012341F51B00C5CA9C /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		F20530082341F52100C5CA9C /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F20530092341F52100C5CA9C /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F20530222341F52200C5CA9C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F20530232341F52200C5CA9C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F20530252341F52200C5CA9C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = VibranteSalonPH/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "UOP.Phinma-group8.VibranteSalonPH";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "VibranteSalonPH/VibranteSalonPH-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F20530262341F52200C5CA9C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = VibranteSalonPH/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "UOP.Phinma-group8.VibranteSalonPH";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "VibranteSalonPH/VibranteSalonPH-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F20530282341F52200C5CA9C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = VibranteSalonPHTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "UOP.Phinma-group8.VibranteSalonPHTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/VibranteSalonPH.app/VibranteSalonPH";
+			};
+			name = Debug;
+		};
+		F20530292341F52200C5CA9C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = VibranteSalonPHTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "UOP.Phinma-group8.VibranteSalonPHTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/VibranteSalonPH.app/VibranteSalonPH";
+			};
+			name = Release;
+		};
+		F205302B2341F52200C5CA9C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = VibranteSalonPHUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "UOP.Phinma-group8.VibranteSalonPHUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = VibranteSalonPH;
+			};
+			name = Debug;
+		};
+		F205302C2341F52200C5CA9C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = VibranteSalonPHUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "UOP.Phinma-group8.VibranteSalonPHUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = VibranteSalonPH;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F2052FF42341F51A00C5CA9C /* Build configuration list for PBXProject "VibranteSalonPH" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F20530222341F52200C5CA9C /* Debug */,
+				F20530232341F52200C5CA9C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F20530242341F52200C5CA9C /* Build configuration list for PBXNativeTarget "VibranteSalonPH" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F20530252341F52200C5CA9C /* Debug */,
+				F20530262341F52200C5CA9C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F20530272341F52200C5CA9C /* Build configuration list for PBXNativeTarget "VibranteSalonPHTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F20530282341F52200C5CA9C /* Debug */,
+				F20530292341F52200C5CA9C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F205302A2341F52200C5CA9C /* Build configuration list for PBXNativeTarget "VibranteSalonPHUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F205302B2341F52200C5CA9C /* Debug */,
+				F205302C2341F52200C5CA9C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		F20530032341F51B00C5CA9C /* VibranteSalonPH.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				F20530042341F51B00C5CA9C /* VibranteSalonPH.xcdatamodel */,
+			);
+			currentVersion = F20530042341F51B00C5CA9C /* VibranteSalonPH.xcdatamodel */;
+			path = VibranteSalonPH.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = F2052FF12341F51A00C5CA9C /* Project object */;
+}
