@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build: v1 Alpha](https://img.shields.io/badge/build-v1%20Alpha-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp) [![ITE-237](https://img.shields.io/badge/ITE--237-iOS-%238b9dc3)](https://www.facebook.com/groups/337037380291306/)
 
-**Vibrante Salon PH** is an advertisement application made for iOS devices, written in Swift.
+**Vibrante Salon PH** is an advertisement application made for iOS devices, written in Objective-C and Swift.
 
 This application is made for the subject code **ITE 237 - Advanced Programming I**. This is nothing but a final project app to pass the class. If you somehow managed to find this repository *without* knowing me (Dorky) and/or this class, I applaud you. You're free to look if you want, I guess.
 
