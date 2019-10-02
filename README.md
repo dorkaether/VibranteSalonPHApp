@@ -14,11 +14,22 @@ This repository's main purpose is to *keep track of the progress made* for this 
 
 ## !! NEW UPDATE !!
 Changelog:
-#### NEW! Admin page added
-The admin page is added per request of our professor. Said that it's for easy access to the Services page in case prices are in need of changing. Implementation of the Admin page is now included in the [Second Milestone](https://github.com/dorkaether/VibranteSalonPHApp/projects/2)
 
-#### MILESTONE REACHED! First Milestone completed
-Hooray! I was certain that I won't be able to finish it until tomorrow, but apparently I finished it a lot earlier than I thought. Second Milestone will start tomorrow, depending on the results of the proposal.
+[![UPDATE: Milestone Reached!](https://img.shields.io/badge/UPDATE-Milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp#-new-update-) **First Milestone Completed!**
+
+Proceeding to the [second milestone](https://github.com/dorkaether/VibranteSalonPHApp/projects/2). From here on out, the work will now be divided between developers. Deadline of the second milestone is on October 9, 2019.
+
+---
+
+[![UPDATE: Milestone Changes](https://img.shields.io/badge/UPDATE-Milestone%20Changes-orange)](https://github.com/dorkaether/VibranteSalonPHApp#-new-update-) **Milestone, Re-worked**
+
+As per the result of the [first milestone](https://github.com/dorkaether/VibranteSalonPHApp/projects/1), some changes will be implemented:
+
+[![UPDATE: Re-work needed](https://img.shields.io/badge/UPDATE-Re--work%20needed-blueviolet)](https://github.com/dorkaether/VibranteSalonPHApp/issues/1) Main Menu needs to be on top left corner of the application.
+
+[![UPDATE: Sub-milestone reached!](https://img.shields.io/badge/UPDATE-Sub--milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Home Page Implementation Part II is completed.
+
+[![UPDATE: Currently Working On](https://img.shields.io/badge/UPDATE-Currently%20Working%20On-red)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Main Menu Implementation Part II is in progress.
 
 ---
 
