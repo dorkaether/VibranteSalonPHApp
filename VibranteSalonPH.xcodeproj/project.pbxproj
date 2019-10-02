@@ -17,6 +17,12 @@
 		F205302E2341FAE800C5CA9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F205302D2341FAE800C5CA9C /* Assets.xcassets */; };
 		F20530322342079B00C5CA9C /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F20530302342079A00C5CA9C /* SWRevealViewController.m */; };
 		F2053034234209C500C5CA9C /* VibranteMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2053033234209C500C5CA9C /* VibranteMenu.swift */; };
+		F20530362344873300C5CA9C /* ViewController_AboutVibrante.swift in Sources */ = {isa = PBXBuildFile; fileRef = F20530352344873300C5CA9C /* ViewController_AboutVibrante.swift */; };
+		F205303823448EF300C5CA9C /* ViewController - Services.swift in Sources */ = {isa = PBXBuildFile; fileRef = F205303723448EF300C5CA9C /* ViewController - Services.swift */; };
+		F205303A234499FC00C5CA9C /* ViewController_Gallery.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2053039234499FC00C5CA9C /* ViewController_Gallery.swift */; };
+		F205303C23449CD000C5CA9C /* ViewController_ContactUs.swift in Sources */ = {isa = PBXBuildFile; fileRef = F205303B23449CD000C5CA9C /* ViewController_ContactUs.swift */; };
+		F205303E2344A0BD00C5CA9C /* ViewController_Help.swift in Sources */ = {isa = PBXBuildFile; fileRef = F205303D2344A0BD00C5CA9C /* ViewController_Help.swift */; };
+		F20530402344A0DC00C5CA9C /* ViewController_TeamOcto.swift in Sources */ = {isa = PBXBuildFile; fileRef = F205303F2344A0DC00C5CA9C /* ViewController_TeamOcto.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +61,12 @@
 		F20530302342079A00C5CA9C /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
 		F20530312342079A00C5CA9C /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
 		F2053033234209C500C5CA9C /* VibranteMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VibranteMenu.swift; sourceTree = "<group>"; };
+		F20530352344873300C5CA9C /* ViewController_AboutVibrante.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_AboutVibrante.swift; sourceTree = "<group>"; };
+		F205303723448EF300C5CA9C /* ViewController - Services.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController - Services.swift"; sourceTree = "<group>"; };
+		F2053039234499FC00C5CA9C /* ViewController_Gallery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Gallery.swift; sourceTree = "<group>"; };
+		F205303B23449CD000C5CA9C /* ViewController_ContactUs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_ContactUs.swift; sourceTree = "<group>"; };
+		F205303D2344A0BD00C5CA9C /* ViewController_Help.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Help.swift; sourceTree = "<group>"; };
+		F205303F2344A0DC00C5CA9C /* ViewController_TeamOcto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_TeamOcto.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +120,12 @@
 				F2052FFC2341F51A00C5CA9C /* AppDelegate.swift */,
 				F2053033234209C500C5CA9C /* VibranteMenu.swift */,
 				F2052FFE2341F51B00C5CA9C /* ViewController.swift */,
+				F20530352344873300C5CA9C /* ViewController_AboutVibrante.swift */,
+				F205303723448EF300C5CA9C /* ViewController - Services.swift */,
+				F2053039234499FC00C5CA9C /* ViewController_Gallery.swift */,
+				F205303B23449CD000C5CA9C /* ViewController_ContactUs.swift */,
+				F205303D2344A0BD00C5CA9C /* ViewController_Help.swift */,
+				F205303F2344A0DC00C5CA9C /* ViewController_TeamOcto.swift */,
 				F20530002341F51B00C5CA9C /* Main.storyboard */,
 				F20530082341F52100C5CA9C /* LaunchScreen.storyboard */,
 				F205302D2341FAE800C5CA9C /* Assets.xcassets */,
@@ -271,10 +289,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				F20530052341F51B00C5CA9C /* VibranteSalonPH.xcdatamodeld in Sources */,
+				F20530362344873300C5CA9C /* ViewController_AboutVibrante.swift in Sources */,
 				F2053034234209C500C5CA9C /* VibranteMenu.swift in Sources */,
+				F20530402344A0DC00C5CA9C /* ViewController_TeamOcto.swift in Sources */,
+				F205303E2344A0BD00C5CA9C /* ViewController_Help.swift in Sources */,
 				F2052FFF2341F51B00C5CA9C /* ViewController.swift in Sources */,
+				F205303823448EF300C5CA9C /* ViewController - Services.swift in Sources */,
+				F205303A234499FC00C5CA9C /* ViewController_Gallery.swift in Sources */,
 				F2052FFD2341F51B00C5CA9C /* AppDelegate.swift in Sources */,
 				F20530322342079B00C5CA9C /* SWRevealViewController.m in Sources */,
+				F205303C23449CD000C5CA9C /* ViewController_ContactUs.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
