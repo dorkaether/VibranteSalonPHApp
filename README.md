@@ -25,7 +25,7 @@ Proceeding to the [second milestone](https://github.com/dorkaether/VibranteSalon
 
 As per the result of the [first milestone](https://github.com/dorkaether/VibranteSalonPHApp/projects/1), some changes will be implemented:
 
-[![UPDATE: Re-work needed](https://img.shields.io/badge/UPDATE-Re--work%20needed-blueviolet)](https://github.com/dorkaether/VibranteSalonPHApp/issues/1) Main Menu needs to be on top left corner of the application.
+[![UPDATE: Issue Fixed!](https://img.shields.io/badge/UPDATE-Issue%20Fixed!-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/issues/1) ~~Main Menu needs to be on top left corner of the application.~~ Issue fixed!
 
 [![UPDATE: Sub-milestone reached!](https://img.shields.io/badge/UPDATE-Sub--milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Home Page Implementation Part II is completed.
 
