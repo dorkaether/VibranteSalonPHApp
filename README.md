@@ -33,6 +33,10 @@ Home Page Implementation Part II
 
 Main Menu Implementation Part II
 
+Gallery Implementation Part I - Page now exists
+
+Help Implementation Part I - Page now exists
+
 About Team page (90%, 100% is on the third milestone)
 
 About Vibrante page (90%, 100% is on the third milestone)
