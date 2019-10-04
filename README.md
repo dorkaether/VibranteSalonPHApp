@@ -27,7 +27,13 @@ As per the result of the [first milestone](https://github.com/dorkaether/Vibrant
 
 [![UPDATE: Issue Fixed!](https://img.shields.io/badge/UPDATE-Issue%20Fixed!-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/issues/1) ~~Main Menu needs to be on top left corner of the application.~~ Issue fixed!
 
-[![UPDATE: Sub-milestone reached!](https://img.shields.io/badge/UPDATE-Sub--milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Home Page Implementation Part II and Main Menu Implementation Part II are completed!
+[![UPDATE: Sub-milestone reached!](https://img.shields.io/badge/UPDATE-Sub--milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) The following sub-milestones has been achieved:
+
+Home Page Implementation Part II
+
+Main Menu Implementation Part II
+
+About Team page (90%, 100% is on the third milestone)
 
 [![UPDATE: Currently Working On](https://img.shields.io/badge/UPDATE-Currently%20Working%20On-red)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Here are the list of sub-milestones currently being worked on:
 
@@ -36,8 +42,6 @@ As per the result of the [first milestone](https://github.com/dorkaether/Vibrant
 About Vibrante page
 
 Contact Us page
-
-About Team page
 
 [![PROGRESS: Marvin](https://img.shields.io/badge/PROGRESS-Marvin-%23C0C0C0)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Marvin's:
 
