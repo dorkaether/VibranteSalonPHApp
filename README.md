@@ -1,6 +1,6 @@
 # Vibrante Salon PH - An Advertisement Application
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build: v1 Alpha](https://img.shields.io/badge/build-v0.1.7%20Alpha-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/releases/tag/v0.1-alpha) [![ITE-237](https://img.shields.io/badge/ITE--237-iOS-%238b9dc3)](https://www.facebook.com/groups/337037380291306/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build: v1 Alpha](https://img.shields.io/badge/build-v0.1.7%20Alpha-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/releases/tag/v0.1.7-alpha) [![ITE-237](https://img.shields.io/badge/ITE--237-iOS-%238b9dc3)](https://www.facebook.com/groups/337037380291306/)
 
 **Vibrante Salon PH** is an advertisement application made for iOS devices, written in Objective-C and Swift.
 
