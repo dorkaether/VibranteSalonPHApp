@@ -59,6 +59,8 @@ Contact Us page (90%, 100% is on the third milestone)
 
 Help page
 
+Polishing of pages
+
 [![PROGRESS: Marvin](https://img.shields.io/badge/PROGRESS-Marvin-%23C0C0C0)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Marvin's:
 
 Services page
