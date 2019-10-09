@@ -1,6 +1,6 @@
 # Vibrante Salon PH - An Advertisement Application
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build: v1 Alpha](https://img.shields.io/badge/build-v0.1.7%20Alpha-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/releases/tag/v0.1.7-alpha) [![ITE-237](https://img.shields.io/badge/ITE--237-iOS-%238b9dc3)](https://www.facebook.com/groups/337037380291306/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build: v1 Alpha](https://img.shields.io/badge/build-v0.2.0%20Alpha-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/releases/tag/v0.1.7-alpha) [![ITE-237](https://img.shields.io/badge/ITE--237-iOS-%238b9dc3)](https://www.facebook.com/groups/337037380291306/)
 
 **Vibrante Salon PH** is an advertisement application made for iOS devices, written in Objective-C and Swift.
 
@@ -15,9 +15,9 @@ This repository's main purpose is to *keep track of the progress made* for this 
 ## !! NEW UPDATE !!
 Changelog:
 
-[![UPDATE: Milestone Reached!](https://img.shields.io/badge/UPDATE-Milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp#-new-update-) **First Milestone Completed!**
+[![UPDATE: Milestone Reached!](https://img.shields.io/badge/UPDATE-Milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp#-new-update-) **Second Milestone Reached!**
 
-Proceeding to the [second milestone](https://github.com/dorkaether/VibranteSalonPHApp/projects/2). From here on out, the work will now be divided between developers. Deadline of the second milestone is on October 9, 2019.
+Proceeding to the [third milestone](https://github.com/dorkaether/VibranteSalonPHApp/projects/3).
 
 ---
 
@@ -28,6 +28,16 @@ As per the result of the [first milestone](https://github.com/dorkaether/Vibrant
 [![UPDATE: Issue Fixed!](https://img.shields.io/badge/UPDATE-Issue%20Fixed!-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/issues/1) ~~Main Menu needs to be on top left corner of the application.~~ Issue fixed!
 
 [![UPDATE: Sub-milestone reached!](https://img.shields.io/badge/UPDATE-Sub--milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) The following sub-milestones has been achieved:
+
+**First Milestone**:
+
+Launchscreen Implementation
+
+Home Page Implementation Part I
+
+Main Menu Implementation Part I
+
+**Second Milestone**:
 
 Home Page Implementation Part II
 
@@ -47,13 +57,17 @@ Contact Us page (90%, 100% is on the third milestone)
 
 [![PROGRESS: dorkaether](https://img.shields.io/badge/PROGRESS-dorkaether-%23FFD700)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Erin's:
 
-Currently updating github page
+Help page
 
 [![PROGRESS: Marvin](https://img.shields.io/badge/PROGRESS-Marvin-%23C0C0C0)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Marvin's:
 
 Services page
 
 Admin page (sub-page of About Team)
+
+Gallery
+
+Location Map (of Contact Us page)
 
 ---
 
