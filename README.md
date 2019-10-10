@@ -1,6 +1,6 @@
 # Vibrante Salon PH - An Advertisement Application
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build: v1 Alpha](https://img.shields.io/badge/build-v0.2.0%20Alpha-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/releases/tag/v0.1.7-alpha) [![ITE-237](https://img.shields.io/badge/ITE--237-iOS-%238b9dc3)](https://www.facebook.com/groups/337037380291306/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build: v1 Alpha](https://img.shields.io/badge/build-v0.2.1%20Alpha-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/releases/tag/v0.1.7-alpha) [![ITE-237](https://img.shields.io/badge/ITE--237-iOS-%238b9dc3)](https://www.facebook.com/groups/337037380291306/)
 
 **Vibrante Salon PH** is an advertisement application made for iOS devices, written in Objective-C and Swift.
 
@@ -52,6 +52,10 @@ About Team page (90%, 100% is on the third milestone)
 About Vibrante page (90%, 100% is on the third milestone)
 
 Contact Us page (90%, 100% is on the third milestone)
+
+**Third Milestone**:
+
+About Team page
 
 [![UPDATE: Currently Working On](https://img.shields.io/badge/UPDATE-Currently%20Working%20On-red)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Here are the list of sub-milestones currently being worked on:
 
