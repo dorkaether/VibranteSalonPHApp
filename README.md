@@ -55,6 +55,8 @@ Contact Us page (90%, 100% is on the third milestone)
 
 **Third Milestone**:
 
+Home page
+
 About Team page
 
 [![UPDATE: Currently Working On](https://img.shields.io/badge/UPDATE-Currently%20Working%20On-red)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Here are the list of sub-milestones currently being worked on:
