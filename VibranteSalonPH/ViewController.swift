@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    
     // Outlets
     @IBOutlet weak var btnMenu: UIBarButtonItem!
     
@@ -27,7 +28,20 @@ class ViewController: UIViewController {
         }
         
     }
-
+    
+    
+    @IBAction func btnlink(_ sender: Any) {
+        
+        
+        performSegue(withIdentifier: "seguearticle", sender: self)
+    }
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        let senddata = segue.destination as! ViewController_Article
+        let mydata = "https://www.vibrantesalon.com/vibrante-salon-welcomes-oujiashi-brand-into-its-branches/"
+        senddata.article = String(mydata)
+        
+    }
+    
 
 }
 

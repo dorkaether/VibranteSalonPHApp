@@ -27,5 +27,13 @@ class ViewController_AboutVibrante: UIViewController {
             
     }
     
+    
+    
+    @IBAction func btnMTT(_ sender: Any) {
+        
+        
+        performSegue(withIdentifier: "seguemtt", sender: self)
+    }
+    
 
 }

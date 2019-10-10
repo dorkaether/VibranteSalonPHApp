@@ -26,5 +26,11 @@ class ViewController_TeamOcto: UIViewController {
         }
         
     }
+    
+    @IBAction func btngithub(_ sender: Any) {
+        
+        performSegue(withIdentifier: "seguegit", sender: self)
+    }
+    
 
 }

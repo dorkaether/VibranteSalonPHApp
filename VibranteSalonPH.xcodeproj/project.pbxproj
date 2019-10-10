@@ -23,6 +23,10 @@
 		F205303C23449CD000C5CA9C /* ViewController_ContactUs.swift in Sources */ = {isa = PBXBuildFile; fileRef = F205303B23449CD000C5CA9C /* ViewController_ContactUs.swift */; };
 		F205303E2344A0BD00C5CA9C /* ViewController_Help.swift in Sources */ = {isa = PBXBuildFile; fileRef = F205303D2344A0BD00C5CA9C /* ViewController_Help.swift */; };
 		F20530402344A0DC00C5CA9C /* ViewController_TeamOcto.swift in Sources */ = {isa = PBXBuildFile; fileRef = F205303F2344A0DC00C5CA9C /* ViewController_TeamOcto.swift */; };
+		F2053042234ECE3A00C5CA9C /* ViewController_GitHub.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2053041234ECE3A00C5CA9C /* ViewController_GitHub.swift */; };
+		F2053045234EDB8600C5CA9C /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F2053044234EDB8500C5CA9C /* WebKit.framework */; };
+		F2053047234EEE4100C5CA9C /* ViewController_Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2053046234EEE4100C5CA9C /* ViewController_Article.swift */; };
+		F205304B234F240400C5CA9C /* ViewController_MeetTheTeam.swift in Sources */ = {isa = PBXBuildFile; fileRef = F205304A234F240400C5CA9C /* ViewController_MeetTheTeam.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +71,10 @@
 		F205303B23449CD000C5CA9C /* ViewController_ContactUs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_ContactUs.swift; sourceTree = "<group>"; };
 		F205303D2344A0BD00C5CA9C /* ViewController_Help.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Help.swift; sourceTree = "<group>"; };
 		F205303F2344A0DC00C5CA9C /* ViewController_TeamOcto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_TeamOcto.swift; sourceTree = "<group>"; };
+		F2053041234ECE3A00C5CA9C /* ViewController_GitHub.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_GitHub.swift; sourceTree = "<group>"; };
+		F2053044234EDB8500C5CA9C /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		F2053046234EEE4100C5CA9C /* ViewController_Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Article.swift; sourceTree = "<group>"; };
+		F205304A234F240400C5CA9C /* ViewController_MeetTheTeam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_MeetTheTeam.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2053045234EDB8600C5CA9C /* WebKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -101,6 +110,7 @@
 				F20530132341F52200C5CA9C /* VibranteSalonPHTests */,
 				F205301E2341F52200C5CA9C /* VibranteSalonPHUITests */,
 				F2052FFA2341F51A00C5CA9C /* Products */,
+				F2053043234EDB8300C5CA9C /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -126,6 +136,9 @@
 				F205303B23449CD000C5CA9C /* ViewController_ContactUs.swift */,
 				F205303D2344A0BD00C5CA9C /* ViewController_Help.swift */,
 				F205303F2344A0DC00C5CA9C /* ViewController_TeamOcto.swift */,
+				F2053041234ECE3A00C5CA9C /* ViewController_GitHub.swift */,
+				F2053046234EEE4100C5CA9C /* ViewController_Article.swift */,
+				F205304A234F240400C5CA9C /* ViewController_MeetTheTeam.swift */,
 				F20530002341F51B00C5CA9C /* Main.storyboard */,
 				F20530082341F52100C5CA9C /* LaunchScreen.storyboard */,
 				F205302D2341FAE800C5CA9C /* Assets.xcassets */,
@@ -154,6 +167,14 @@
 				F20530212341F52200C5CA9C /* Info.plist */,
 			);
 			path = VibranteSalonPHUITests;
+			sourceTree = "<group>";
+		};
+		F2053043234EDB8300C5CA9C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F2053044234EDB8500C5CA9C /* WebKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -291,13 +312,16 @@
 				F20530052341F51B00C5CA9C /* VibranteSalonPH.xcdatamodeld in Sources */,
 				F20530362344873300C5CA9C /* ViewController_AboutVibrante.swift in Sources */,
 				F2053034234209C500C5CA9C /* VibranteMenu.swift in Sources */,
+				F2053042234ECE3A00C5CA9C /* ViewController_GitHub.swift in Sources */,
 				F20530402344A0DC00C5CA9C /* ViewController_TeamOcto.swift in Sources */,
 				F205303E2344A0BD00C5CA9C /* ViewController_Help.swift in Sources */,
 				F2052FFF2341F51B00C5CA9C /* ViewController.swift in Sources */,
 				F205303823448EF300C5CA9C /* ViewController - Services.swift in Sources */,
+				F2053047234EEE4100C5CA9C /* ViewController_Article.swift in Sources */,
 				F205303A234499FC00C5CA9C /* ViewController_Gallery.swift in Sources */,
 				F2052FFD2341F51B00C5CA9C /* AppDelegate.swift in Sources */,
 				F20530322342079B00C5CA9C /* SWRevealViewController.m in Sources */,
+				F205304B234F240400C5CA9C /* ViewController_MeetTheTeam.swift in Sources */,
 				F205303C23449CD000C5CA9C /* ViewController_ContactUs.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
