@@ -61,6 +61,8 @@ About Team page
 
 Help Implementation II
 
+About Vibrante page
+
 [![UPDATE: Currently Working On](https://img.shields.io/badge/UPDATE-Currently%20Working%20On-red)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Here are the list of sub-milestones currently being worked on:
 
 [![PROGRESS: dorkaether](https://img.shields.io/badge/PROGRESS-dorkaether-%23FFD700)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Erin's:
