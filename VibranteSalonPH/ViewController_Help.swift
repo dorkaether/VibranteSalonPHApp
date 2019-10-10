@@ -27,5 +27,9 @@ class ViewController_Help: UIViewController {
         
     }
     
-
+    @IBAction func btnhelpnext(_ sender: Any) {
+        
+        performSegue(withIdentifier: "seguehelp1", sender: self)
+    }
+    
 }

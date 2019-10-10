@@ -27,6 +27,7 @@
 		F2053045234EDB8600C5CA9C /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F2053044234EDB8500C5CA9C /* WebKit.framework */; };
 		F2053047234EEE4100C5CA9C /* ViewController_Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2053046234EEE4100C5CA9C /* ViewController_Article.swift */; };
 		F205304B234F240400C5CA9C /* ViewController_MeetTheTeam.swift in Sources */ = {isa = PBXBuildFile; fileRef = F205304A234F240400C5CA9C /* ViewController_MeetTheTeam.swift */; };
+		F2F11CA6234F5AFD0008553C /* ViewController_Help1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2F11CA5234F5AFD0008553C /* ViewController_Help1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,6 +76,7 @@
 		F2053044234EDB8500C5CA9C /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		F2053046234EEE4100C5CA9C /* ViewController_Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Article.swift; sourceTree = "<group>"; };
 		F205304A234F240400C5CA9C /* ViewController_MeetTheTeam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_MeetTheTeam.swift; sourceTree = "<group>"; };
+		F2F11CA5234F5AFD0008553C /* ViewController_Help1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Help1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 				F2053041234ECE3A00C5CA9C /* ViewController_GitHub.swift */,
 				F2053046234EEE4100C5CA9C /* ViewController_Article.swift */,
 				F205304A234F240400C5CA9C /* ViewController_MeetTheTeam.swift */,
+				F2F11CA5234F5AFD0008553C /* ViewController_Help1.swift */,
 				F20530002341F51B00C5CA9C /* Main.storyboard */,
 				F20530082341F52100C5CA9C /* LaunchScreen.storyboard */,
 				F205302D2341FAE800C5CA9C /* Assets.xcassets */,
@@ -320,6 +323,7 @@
 				F2053047234EEE4100C5CA9C /* ViewController_Article.swift in Sources */,
 				F205303A234499FC00C5CA9C /* ViewController_Gallery.swift in Sources */,
 				F2052FFD2341F51B00C5CA9C /* AppDelegate.swift in Sources */,
+				F2F11CA6234F5AFD0008553C /* ViewController_Help1.swift in Sources */,
 				F20530322342079B00C5CA9C /* SWRevealViewController.m in Sources */,
 				F205304B234F240400C5CA9C /* ViewController_MeetTheTeam.swift in Sources */,
 				F205303C23449CD000C5CA9C /* ViewController_ContactUs.swift in Sources */,
