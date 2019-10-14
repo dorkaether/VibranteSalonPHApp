@@ -1,6 +1,6 @@
 # Vibrante Salon PH - An Advertisement Application
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build: v1 Alpha](https://img.shields.io/badge/build-v0.2.5%20Alpha-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/releases/tag/v0.1.7-alpha) [![ITE-237](https://img.shields.io/badge/ITE--237-iOS-%238b9dc3)](https://www.facebook.com/groups/337037380291306/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build: v1 Alpha](https://img.shields.io/badge/build-v0.3.0%20Alpha-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/releases/tag/v0.1.7-alpha) [![ITE-237](https://img.shields.io/badge/ITE--237-iOS-%238b9dc3)](https://www.facebook.com/groups/337037380291306/)
 
 **Vibrante Salon PH** is an advertisement application made for iOS devices, written in Objective-C and Swift.
 
@@ -63,23 +63,25 @@ Help Implementation II
 
 About Vibrante page
 
+Gallery Implementation II
+
+Help Implementation III
+
+Location Map (of Contact Us page)
+
 [![UPDATE: Currently Working On](https://img.shields.io/badge/UPDATE-Currently%20Working%20On-red)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Here are the list of sub-milestones currently being worked on:
 
 [![PROGRESS: dorkaether](https://img.shields.io/badge/PROGRESS-dorkaether-%23FFD700)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Erin's:
-
-Help Implementation III
 
 Polishing of pages
 
 [![PROGRESS: Marvin](https://img.shields.io/badge/PROGRESS-Marvin-%23C0C0C0)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Marvin's:
 
-Services page
+Services page (Issue #2 and #3)
 
-Admin page (sub-page of About Team)
+Admin page (sub-page of About Team) (Issue #3)
 
-Gallery Implementation II
-
-Location Map (of Contact Us page)
+Help page (Issue #3)
 
 ---
 
