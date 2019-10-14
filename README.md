@@ -15,9 +15,15 @@ This repository's main purpose is to *keep track of the progress made* for this 
 ## !! NEW UPDATE !!
 Changelog:
 
-[![UPDATE: Milestone Reached!](https://img.shields.io/badge/UPDATE-Milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp#-new-update-) **Second Milestone Reached!**
+[![UPDATE: Milestone Reached!](https://img.shields.io/badge/UPDATE-Milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp#-new-update-) **Third Milestone Reached!**
 
-Proceeding to the [third milestone](https://github.com/dorkaether/VibranteSalonPHApp/projects/3).
+Proceeding to the [last milestone](https://github.com/dorkaether/VibranteSalonPHApp/projects/4). This will be the final milestone for this project, and to those who helped making this project a reality - I thank you.
+
+Despite the time constraints and the lack of equipment, we (Marvin and I) managed to finish it just about before the application's deadline. We would have probably added more features, but the fact that we made a lot in a span of half a month is a feat itself. 
+
+We're almost there!
+
+-- c:
 
 ---
 
