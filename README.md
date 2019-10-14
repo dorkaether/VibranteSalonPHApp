@@ -29,7 +29,7 @@ We're almost there!
 
 [![UPDATE: Milestone Changes](https://img.shields.io/badge/UPDATE-Milestone%20Changes-orange)](https://github.com/dorkaether/VibranteSalonPHApp#-new-update-) **Milestone, Re-worked**
 
-As per the result of the [first milestone](https://github.com/dorkaether/VibranteSalonPHApp/projects/1), some changes will be implemented:
+As per the result of the [third milestone](https://github.com/dorkaether/VibranteSalonPHApp/projects/3), some changes will be implemented:
 
 [![UPDATE: Issue Fixed!](https://img.shields.io/badge/UPDATE-Issue%20Fixed!-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/issues/1) ~~Main Menu needs to be on top left corner of the application.~~ Issue fixed!
 
