@@ -1,6 +1,6 @@
 # Vibrante Salon PH - An Advertisement Application
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build: v1 Alpha](https://img.shields.io/badge/build-v0.3.0%20Alpha-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/releases/tag/v0.1.7-alpha) [![ITE-237](https://img.shields.io/badge/ITE--237-iOS-%238b9dc3)](https://www.facebook.com/groups/337037380291306/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build: v1 Alpha](https://img.shields.io/badge/build-v0.4.1%20Alpha-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/releases/tag/v0.1.7-alpha) [![ITE-237](https://img.shields.io/badge/ITE--237-iOS-%238b9dc3)](https://www.facebook.com/groups/337037380291306/)
 
 **Vibrante Salon PH** is an advertisement application made for iOS devices, written in Objective-C and Swift.
 
@@ -31,7 +31,7 @@ We're almost there!
 
 As per the result of the [third milestone](https://github.com/dorkaether/VibranteSalonPHApp/projects/3), some changes will be implemented:
 
-[![UPDATE: Issue Fixed!](https://img.shields.io/badge/UPDATE-Issue%20Fixed!-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/issues/1) ~~Main Menu needs to be on top left corner of the application.~~ Issue fixed!
+[![UPDATE: Issue Fixed!](https://img.shields.io/badge/UPDATE-Issue%20Fixed!-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/issues/1) Issue #2 fixed!
 
 [![UPDATE: Sub-milestone reached!](https://img.shields.io/badge/UPDATE-Sub--milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) The following sub-milestones has been achieved:
 
@@ -75,19 +75,27 @@ Help Implementation III
 
 Location Map (of Contact Us page)
 
+**Final Milestone**:
+
+Admin page (sub-page of About Team) (Issue #3)
+
+
+
 [![UPDATE: Currently Working On](https://img.shields.io/badge/UPDATE-Currently%20Working%20On-red)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Here are the list of sub-milestones currently being worked on:
 
 [![PROGRESS: dorkaether](https://img.shields.io/badge/PROGRESS-dorkaether-%23FFD700)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Erin's:
 
-Polishing of pages
+Help page (Issue #3)
+
+Web links for social media (QoL)
 
 [![PROGRESS: Marvin](https://img.shields.io/badge/PROGRESS-Marvin-%23C0C0C0)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Marvin's:
 
-Services page (Issue #2 and #3)
+Services page (Issue #3)
 
-Admin page (sub-page of About Team) (Issue #3)
+Background Music (QoL)
 
-Help page (Issue #3)
+Add query form (QoL)
 
 ---
 
