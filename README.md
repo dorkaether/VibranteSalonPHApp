@@ -1,6 +1,6 @@
 # Vibrante Salon PH - An Advertisement Application
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build: v1 Alpha](https://img.shields.io/badge/build-v0.4.1%20Alpha-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/releases/tag/v0.1.7-alpha) [![ITE-237](https://img.shields.io/badge/ITE--237-iOS-%238b9dc3)](https://www.facebook.com/groups/337037380291306/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build: v1 Alpha](https://img.shields.io/badge/build-v0.4.2%20Alpha-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/releases/tag/v0.1.7-alpha) [![ITE-237](https://img.shields.io/badge/ITE--237-iOS-%238b9dc3)](https://www.facebook.com/groups/337037380291306/)
 
 **Vibrante Salon PH** is an advertisement application made for iOS devices, written in Objective-C and Swift.
 
@@ -85,6 +85,7 @@ Help page (Issue #3)
 
 Add query form (QoL)
 
+Web links for social media (QoL)
 
 
 [![UPDATE: Currently Working On](https://img.shields.io/badge/UPDATE-Currently%20Working%20On-red)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Here are the list of sub-milestones currently being worked on:
@@ -92,8 +93,6 @@ Add query form (QoL)
 [![PROGRESS: dorkaether](https://img.shields.io/badge/PROGRESS-dorkaether-%23FFD700)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Erin's:
 
 Help page (QoL)
-
-Web links for social media (QoL)
 
 [![PROGRESS: Marvin](https://img.shields.io/badge/PROGRESS-Marvin-%23C0C0C0)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Marvin's:
 
