@@ -81,6 +81,11 @@ Admin page (sub-page of About Team) (Issue #3)
 
 Help page (Issue #3)
 
+**QoLs**:
+
+Add query form (QoL)
+
+
 
 [![UPDATE: Currently Working On](https://img.shields.io/badge/UPDATE-Currently%20Working%20On-red)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Here are the list of sub-milestones currently being worked on:
 
@@ -90,11 +95,9 @@ Help page (QoL)
 
 Web links for social media (QoL)
 
-Add query form (QoL)
-
 [![PROGRESS: Marvin](https://img.shields.io/badge/PROGRESS-Marvin-%23C0C0C0)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Marvin's:
 
-Services page (Issue #3)
+Services page (Issue #2)
 
 Background Music (QoL)
 
