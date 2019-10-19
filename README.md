@@ -79,15 +79,18 @@ Location Map (of Contact Us page)
 
 Admin page (sub-page of About Team) (Issue #3)
 
+Help page (Issue #3)
 
 
 [![UPDATE: Currently Working On](https://img.shields.io/badge/UPDATE-Currently%20Working%20On-red)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Here are the list of sub-milestones currently being worked on:
 
 [![PROGRESS: dorkaether](https://img.shields.io/badge/PROGRESS-dorkaether-%23FFD700)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Erin's:
 
-Help page (Issue #3)
+Help page (QoL)
 
 Web links for social media (QoL)
+
+Add query form (QoL)
 
 [![PROGRESS: Marvin](https://img.shields.io/badge/PROGRESS-Marvin-%23C0C0C0)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Marvin's:
 
@@ -95,7 +98,7 @@ Services page (Issue #3)
 
 Background Music (QoL)
 
-Add query form (QoL)
+Gallery page (QoL)
 
 ---
 
