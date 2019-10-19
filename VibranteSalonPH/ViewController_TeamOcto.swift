@@ -32,5 +32,10 @@ class ViewController_TeamOcto: UIViewController {
         performSegue(withIdentifier: "seguegit", sender: self)
     }
     
-
+    @IBAction func btnAdmin(_ sender: Any) {
+        
+        performSegue(withIdentifier: "segueLogin", sender: self)
+        
+    }
+    
 }

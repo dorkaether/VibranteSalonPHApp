@@ -27,7 +27,16 @@
 		F2053045234EDB8600C5CA9C /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F2053044234EDB8500C5CA9C /* WebKit.framework */; };
 		F2053047234EEE4100C5CA9C /* ViewController_Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2053046234EEE4100C5CA9C /* ViewController_Article.swift */; };
 		F205304B234F240400C5CA9C /* ViewController_MeetTheTeam.swift in Sources */ = {isa = PBXBuildFile; fileRef = F205304A234F240400C5CA9C /* ViewController_MeetTheTeam.swift */; };
+		F25E9873235B384000DE8B2A /* ViewController_FB.swift in Sources */ = {isa = PBXBuildFile; fileRef = F25E9872235B384000DE8B2A /* ViewController_FB.swift */; };
 		F2F11CA6234F5AFD0008553C /* ViewController_Help1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2F11CA5234F5AFD0008553C /* ViewController_Help1.swift */; };
+		F2F11CAA2350C3BB0008553C /* ViewController_admin.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2F11CA92350C3BB0008553C /* ViewController_admin.swift */; };
+		F2F11CAC23531CCB0008553C /* DataCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2F11CAB23531CCB0008553C /* DataCollectionViewCell.swift */; };
+		F2F11CED2356B75B0008553C /* ViewController_Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2F11CEC2356B75B0008553C /* ViewController_Login.swift */; };
+		F2F11CEF235AF2A50008553C /* ViewController_Query.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2F11CEE235AF2A50008553C /* ViewController_Query.swift */; };
+		F2F11CF1235B105A0008553C /* ViewController_Social.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2F11CF0235B105A0008553C /* ViewController_Social.swift */; };
+		F2FCAEA0235B394C00036868 /* ViewController_Insta.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2FCAE9F235B394C00036868 /* ViewController_Insta.swift */; };
+		F2FCAEA4235B399500036868 /* ViewController_Twitter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2FCAEA3235B399500036868 /* ViewController_Twitter.swift */; };
+		F2FCAEA6235B42D700036868 /* ViewController_Help2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2FCAEA5235B42D700036868 /* ViewController_Help2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,7 +85,16 @@
 		F2053044234EDB8500C5CA9C /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		F2053046234EEE4100C5CA9C /* ViewController_Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Article.swift; sourceTree = "<group>"; };
 		F205304A234F240400C5CA9C /* ViewController_MeetTheTeam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_MeetTheTeam.swift; sourceTree = "<group>"; };
+		F25E9872235B384000DE8B2A /* ViewController_FB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_FB.swift; sourceTree = "<group>"; };
 		F2F11CA5234F5AFD0008553C /* ViewController_Help1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Help1.swift; sourceTree = "<group>"; };
+		F2F11CA92350C3BB0008553C /* ViewController_admin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_admin.swift; sourceTree = "<group>"; };
+		F2F11CAB23531CCB0008553C /* DataCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataCollectionViewCell.swift; sourceTree = "<group>"; };
+		F2F11CEC2356B75B0008553C /* ViewController_Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Login.swift; sourceTree = "<group>"; };
+		F2F11CEE235AF2A50008553C /* ViewController_Query.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Query.swift; sourceTree = "<group>"; };
+		F2F11CF0235B105A0008553C /* ViewController_Social.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Social.swift; sourceTree = "<group>"; };
+		F2FCAE9F235B394C00036868 /* ViewController_Insta.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Insta.swift; sourceTree = "<group>"; };
+		F2FCAEA3235B399500036868 /* ViewController_Twitter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Twitter.swift; sourceTree = "<group>"; };
+		F2FCAEA5235B42D700036868 /* ViewController_Help2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Help2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +161,14 @@
 				F205304A234F240400C5CA9C /* ViewController_MeetTheTeam.swift */,
 				F2F11CA5234F5AFD0008553C /* ViewController_Help1.swift */,
 				F20530002341F51B00C5CA9C /* Main.storyboard */,
+				F2FCAEA5235B42D700036868 /* ViewController_Help2.swift */,
+				F2FCAEA3235B399500036868 /* ViewController_Twitter.swift */,
+				F2FCAE9F235B394C00036868 /* ViewController_Insta.swift */,
+				F25E9872235B384000DE8B2A /* ViewController_FB.swift */,
+				F2F11CF0235B105A0008553C /* ViewController_Social.swift */,
+				F2F11CEE235AF2A50008553C /* ViewController_Query.swift */,
+				F2F11CEC2356B75B0008553C /* ViewController_Login.swift */,
+				F2F11CA92350C3BB0008553C /* ViewController_admin.swift */,
 				F20530082341F52100C5CA9C /* LaunchScreen.storyboard */,
 				F205302D2341FAE800C5CA9C /* Assets.xcassets */,
 				F20530312342079A00C5CA9C /* SWRevealViewController.h */,
@@ -150,6 +176,7 @@
 				F205300B2341F52100C5CA9C /* Info.plist */,
 				F20530032341F51B00C5CA9C /* VibranteSalonPH.xcdatamodeld */,
 				F205302F2342079900C5CA9C /* VibranteSalonPH-Bridging-Header.h */,
+				F2F11CAB23531CCB0008553C /* DataCollectionViewCell.swift */,
 			);
 			path = VibranteSalonPH;
 			sourceTree = "<group>";
@@ -312,21 +339,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2FCAEA4235B399500036868 /* ViewController_Twitter.swift in Sources */,
+				F2F11CED2356B75B0008553C /* ViewController_Login.swift in Sources */,
 				F20530052341F51B00C5CA9C /* VibranteSalonPH.xcdatamodeld in Sources */,
 				F20530362344873300C5CA9C /* ViewController_AboutVibrante.swift in Sources */,
+				F2F11CF1235B105A0008553C /* ViewController_Social.swift in Sources */,
 				F2053034234209C500C5CA9C /* VibranteMenu.swift in Sources */,
 				F2053042234ECE3A00C5CA9C /* ViewController_GitHub.swift in Sources */,
 				F20530402344A0DC00C5CA9C /* ViewController_TeamOcto.swift in Sources */,
+				F25E9873235B384000DE8B2A /* ViewController_FB.swift in Sources */,
 				F205303E2344A0BD00C5CA9C /* ViewController_Help.swift in Sources */,
 				F2052FFF2341F51B00C5CA9C /* ViewController.swift in Sources */,
 				F205303823448EF300C5CA9C /* ViewController - Services.swift in Sources */,
 				F2053047234EEE4100C5CA9C /* ViewController_Article.swift in Sources */,
 				F205303A234499FC00C5CA9C /* ViewController_Gallery.swift in Sources */,
 				F2052FFD2341F51B00C5CA9C /* AppDelegate.swift in Sources */,
+				F2F11CEF235AF2A50008553C /* ViewController_Query.swift in Sources */,
 				F2F11CA6234F5AFD0008553C /* ViewController_Help1.swift in Sources */,
+				F2F11CAA2350C3BB0008553C /* ViewController_admin.swift in Sources */,
 				F20530322342079B00C5CA9C /* SWRevealViewController.m in Sources */,
+				F2FCAEA0235B394C00036868 /* ViewController_Insta.swift in Sources */,
 				F205304B234F240400C5CA9C /* ViewController_MeetTheTeam.swift in Sources */,
 				F205303C23449CD000C5CA9C /* ViewController_ContactUs.swift in Sources */,
+				F2FCAEA6235B42D700036868 /* ViewController_Help2.swift in Sources */,
+				F2F11CAC23531CCB0008553C /* DataCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -503,6 +539,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = XKKS99U997;
 				INFOPLIST_FILE = VibranteSalonPH/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -523,6 +560,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = XKKS99U997;
 				INFOPLIST_FILE = VibranteSalonPH/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

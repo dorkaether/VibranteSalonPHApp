@@ -8,19 +8,45 @@
 
 import UIKit
 
-class ViewController___Services: UIViewController,UITableViewDelegate,UITableViewDataSource {
+class ViewController___Services: UIViewController {
     
     // Outlets
-    @IBOutlet weak var mtTableView: UITableView!
     @IBOutlet weak var btnMenu: UIBarButtonItem!
     
-    let serviceArray = ["CUTS","Creative Director - Php 850.00","Signature Stylist - Php 650.00","Senior Stylist - Php 300.00"," ","STYLE","Shampoo and Bowdry / Set - Php 350.00","Flat iron / Curling iron - Php 550.00","Argan Blowdry - Php 650.00"," "," "," "]
+    @IBOutlet weak var lblCreative: UILabel!
     
-
+    @IBOutlet weak var lblSignature: UILabel!
+    
+    @IBOutlet weak var lblSenior: UILabel!
+    
+    @IBOutlet weak var lblStyleone: UILabel!
+    
+    @IBOutlet weak var lblStyletwo: UILabel!
+    
+    
+    @IBOutlet weak var lblStyle3: UILabel!
+    //"P" for Price
+    var creativeP: String = "850"
+    var signatureP: String = "650"
+    var seniorP: String = "850"
+    var s1P: String = "350"
+    var s2P: String = "500"
+    var s3P: String = "850"
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // revealViewController - Services
+    
+    lblCreative.text = String(creativeP)
+    lblSignature.text = String(signatureP)
+    lblSenior.text = String(seniorP)
+    lblStyleone.text = String(s1P)
+    lblStyletwo.text = String(s2P)
+    lblStyle3.text = String(s3P)
+        
         
         if (revealViewController() != nil) {
             
@@ -29,22 +55,7 @@ class ViewController___Services: UIViewController,UITableViewDelegate,UITableVie
             self.view.addGestureRecognizer((revealViewController()?.panGestureRecognizer())!)
         }
         
-        mtTableView.dataSource = self
-        mtTableView.delegate = self
     }
     
-    func numberOfSections(in tableView: UITableView) -> Int {
-        return 1
-        
-    }
-    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return serviceArray.count
-    }
-    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "MyCell", for: indexPath)
-        cell.textLabel?.text = serviceArray[indexPath.row]
-        
-        return cell
-    }
     
 }

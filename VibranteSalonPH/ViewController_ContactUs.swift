@@ -27,5 +27,18 @@ class ViewController_ContactUs: UIViewController {
         
     }
     
-
+    
+    @IBAction func btnQuery(_ sender: Any) {
+        
+        performSegue(withIdentifier: "seguequery", sender: self)
+        
+    }
+    
+    
+    @IBAction func btnSocial(_ sender: Any) {
+        
+        performSegue(withIdentifier: "seguesocial", sender: self)
+        
+    }
+    
 }
