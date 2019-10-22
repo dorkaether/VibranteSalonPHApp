@@ -1,6 +1,6 @@
 # Vibrante Salon PH - An Advertisement Application
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build: v1 Alpha](https://img.shields.io/badge/build-v0.4.3%20Alpha-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/releases/tag/v0.1.7-alpha) [![ITE-237](https://img.shields.io/badge/ITE--237-iOS-%238b9dc3)](https://www.facebook.com/groups/337037380291306/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![build: v1 Alpha](https://img.shields.io/badge/build-v1.0-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/releases/) [![ITE-237](https://img.shields.io/badge/ITE--237-iOS-%238b9dc3)](https://www.facebook.com/groups/337037380291306/)
 
 **Vibrante Salon PH** is an advertisement application made for iOS devices, written in Objective-C and Swift.
 
@@ -15,23 +15,63 @@ This repository's main purpose is to *keep track of the progress made* for this 
 ## !! NEW UPDATE !!
 Changelog:
 
-[![UPDATE: Milestone Reached!](https://img.shields.io/badge/UPDATE-Milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp#-new-update-) **Third Milestone Reached!**
+[![UPDATE: Milestone Reached!](https://img.shields.io/badge/UPDATE-Milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp#-new-update-) **Application Finished!**
 
-Proceeding to the [last milestone](https://github.com/dorkaether/VibranteSalonPHApp/projects/4). This will be the final milestone for this project, and to those who helped making this project a reality - I thank you.
+An open letter to the reader, the interested, the friend, and the professor:
 
-Despite the time constraints and the lack of equipment, we (Marvin and I) managed to finish it just about before the application's deadline. We would have probably added more features, but the fact that we made a lot in a span of half a month is a feat itself. 
+After this project, I realized that while I do like programming, it isn't for me.
 
-We're almost there!
+A little history - my interest in computers started back when I was a child, but the only reason at that time was *it's a new thing!!!* and me being curious wanted to try it out. After a week, I have probably know a lot compared to my parents at the time and what gained my interest was games.
 
--- c:
+I discovered Linux in 2012, and while I was content doing small shell scripts and making the OS my own (and most of my knowledge was thanks to Arch), I didn't really think that I would go beyond that. After 3 years of dabbling with programming languages, I can safetly say that I know Shell, C++, Python, Java, HTML/CSS, Javascript, and finally Swift; at least the most basic functions.
+
+However, as I said I never dreamed on going this far. Computers are my hobby and I think they'll always be my hobby.
+
+If you haven't realized it by now, this is a goodbye letter to Programming; at least to the track. I joined this track back when Animation was dissolved and I was already content at that time - but I had to pick either Web Dev't or this. I had no interest in Web, so here I am.
+
+Programming, I stayed with you for like a semester. Before that, I had C++, Python and Java. I had fun, really I do; but I can't take the stress, the late nights working on a code - *people relying on me, telling me I was a coding god and I should know what I am doing*.
+
+For three years I barely drew - half the reason because I decided to focus on you. The other half? My own parents, once upon a time, told me that I can't be an artist, for I will never earn money in doing so.
+
+All my life I wanted to be an artist, an animator. I rather tell my stories through pictures instead of words.
+
+Yes I may be somewhat decent when it comes to fine arts, yeah I may not be a good artist when it comes to realistic styles. But I have fun drawing. I *still* have fun drawing without a care in a world and what would people think.
+
+Another reason why I can't invest in Programming anymore: My stresses in life is still haunting me.
+
+I wanted to escape life so bad, and I almost succeeded it too; mais j'ai promis à ma princesse...
+
+Programmation! Merci pour tout... mais il est temps pour moi de partir. c:
+
+And here's the time that I leave this project to my partner, Marvin Son. While this repo will stay up and still stay under my name, he now fully owns it. 
+
+Marvin, merci beaucoup. Thank you very much. You're a good kid, not a bad partner. You tried your best and we pulled through! I'm sorry that this is the time we part, I hope whatever you learned during the development of our application, you know which is right and wrong to do. I know we should definitely stop using images hahaha!
+
+But this is the end, thank you for reading.
 
 ---
+
+
+
+
+---
+
+*Je crois que si je pouvais voir le regard dans tes yeux*
+
+*Ce n'est pas ce qu'il semble, ce n'est pas un rêve, c'est une vie merveilleuse*
+
+*Alors tombe les étoiles dans mes bras si tu es prêt à voler*
+
+*Mais je dois te laisser partir*
+
+---
+
 
 [![UPDATE: Milestone Changes](https://img.shields.io/badge/UPDATE-Milestone%20Changes-orange)](https://github.com/dorkaether/VibranteSalonPHApp#-new-update-) **Milestone, Re-worked**
 
 As per the result of the [third milestone](https://github.com/dorkaether/VibranteSalonPHApp/projects/3), some changes will be implemented:
 
-[![UPDATE: Issue Fixed!](https://img.shields.io/badge/UPDATE-Issue%20Fixed!-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/issues/1) Issue #2 fixed!
+[![UPDATE: Issue Fixed!](https://img.shields.io/badge/UPDATE-Issue%20Fixed!-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/issues/1) Issue #2 & #3 has been fixed!
 
 [![UPDATE: Sub-milestone reached!](https://img.shields.io/badge/UPDATE-Sub--milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) The following sub-milestones has been achieved:
 
@@ -81,6 +121,8 @@ Admin page (sub-page of About Team) (Issue #3)
 
 Help page (Issue #3)
 
+Services page (Issue #2)
+
 **QoLs**:
 
 Add query form (QoL)
@@ -88,17 +130,6 @@ Add query form (QoL)
 Web links for social media (QoL)
 
 Help page (QoL)
-
-
-[![UPDATE: Currently Working On](https://img.shields.io/badge/UPDATE-Currently%20Working%20On-red)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Here are the list of sub-milestones currently being worked on:
-
-[![PROGRESS: dorkaether](https://img.shields.io/badge/PROGRESS-dorkaether-%23FFD700)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Erin's:
-
-Focusing on slides (lol)
-
-[![PROGRESS: Marvin](https://img.shields.io/badge/PROGRESS-Marvin-%23C0C0C0)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) Marvin's:
-
-Services page (Issue #2)
 
 Background Music (QoL)
 
@@ -116,69 +147,6 @@ The application is expected to inform the user of the salon, and with all the in
 
 As for the user experience, we plan on making it as simple as we can considering the age range while keeping it’s elegant style scheme based on their colors – white, gold and black. Eventually, the application will be easy to navigate while having enough information at their fingertips – with buttons large enough to be tapped on but small enough not to ruin the symmetrical form of the whole design.
 
-## II. Potential Users
-
-The developers based this app to the age range of at least 14-60+ years, depending on their knowledge in using an application, or in general – a smartphone. While this may be a bit of a stretch but there’s probably people beyond this age range who may be interested in applications such as this.
-
-## III. Scopes and Features
-
-	
-•	Home – Also known as the Welcome page. Will feature a small information about the salon and links to current articles, if any. Also has a top header featuring the salon’s logo.
-  
-    •	Main Menu – This button is situated on the top left corner of the application.
-
-    •	Home button – assuming the user is on the home menu, this will probably be highlighted – or not. Otherwise, this leads back to the home page.
-
-    •	About Vibrante button – leads to the page containing information about the salon fully.
-
-    •	Services button – leads to the Services page, and information on what they offer.
-
-	•	Gallery button – leads to a page full of images related to the salon. It may also house the images related to the previous pages.
-
-	•	Contact Us button – leads to a page detailing the existing branches of the salon, and where to find them. Also includes contact information in case of appointments and extra information.
-
-	•	Help button – leads to a tutorial page on the basics on how to navigate through the application. Probably a more detailed version of the scopes and features part of the project specifications.
-
-	•	About Team button – a page about the team of developers behind the app, their purpose and when the application was developed.
-
-•	About Vibrante - is actually an extension to the small about info on the welcome page. This includes information about the owners and their team of experts. Images may or may not be in the Gallery.
-
-	  •	Details about their owners, the Creative Director and the Signature Stylist, are written here.
-
-	  •	Details about their team of experts, including their roles, are also written here.
-
-•	Services – contains the list of services they offer, their prices, and their trusted brands.
-
-•	 Gallery – All images are viewed in a page-like style, with occasional captions if any. Some images in there are probably in other pages too, when specified.
-
-•	Help – aka the Tutorial page of the application. Considering on how it is aimed to keep the app as simple as possible, the Help page will feature a set of small buttons and an image describing the help needed depending on the button that was pressed by the user. 
-
-It will probably be coded last, since the images shown are screenshots of the application itself. Including:
-
-    •	How to navigate – basic instructions on how to navigate on the application. This contains on how to navigate generally.
-
-      Further instructions include:
-
-	        •	How to navigate | Home – The home page contains at least three links to the articles that are hosted currently. This section explains on how to open them.
-
-	        •	How to navigate | Gallery – This section teaches the user how to navigate to the app’s gallery.
-	
-	        •	How to navigate | Menu – This section instructs the user how to browse through the app’s menu and how to access its pages.
-
-	        •	Main menu – details about the main menu are to be found here. It may or may not derived from the scopes and features, but it will surely be informative in order for the user to understand.
-
-•	About Team – The team behind the app! Includes the names and roles of the developers who made this application, a small description, their purpose and motivations, and how the application was made.
-
-Basically, it may include:
-
-	•	Team name
-	•	Name of developer/s
-	•	Roles they have
-	•	the purpose of the application
-	•	when it was developed
-	•	the reason why it was developed/the motivation behind the app
-	•	small acknowledgments to the other people involved in the project, if any (because that’s inevitable)
-	◦ contains a button, which leads to the Admin page – Admin page exists to easily edit the prices on the Services page in case of changes.
 ---
 
 For tracking of milestones, please refer to the [Projects](https://github.com/dorkaether/VibranteSalonPHApp/projects) tab.
