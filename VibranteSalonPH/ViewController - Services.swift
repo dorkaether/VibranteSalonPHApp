@@ -8,45 +8,41 @@
 
 import UIKit
 
+protocol ViewController___ServicesDelegate: class{
+    func textChanged(text:String?)
+    }
+
 class ViewController___Services: UIViewController {
+    /*var priA: String?
+    var priB: String?
+    var priC: String?
+    var priD: String?
+    var priE: String?
+    var priF: String?*/
     
     // Outlets
+    weak var delegate: ViewController___ServicesDelegate?
+    
     @IBOutlet weak var btnMenu: UIBarButtonItem!
-    
     @IBOutlet weak var lblCreative: UILabel!
-    
     @IBOutlet weak var lblSignature: UILabel!
-    
     @IBOutlet weak var lblSenior: UILabel!
-    
     @IBOutlet weak var lblStyleone: UILabel!
-    
     @IBOutlet weak var lblStyletwo: UILabel!
-    
-    
     @IBOutlet weak var lblStyle3: UILabel!
-    //"P" for Price
-    var creativeP: String = "850"
-    var signatureP: String = "650"
-    var seniorP: String = "850"
-    var s1P: String = "350"
-    var s2P: String = "500"
-    var s3P: String = "850"
     
-    
+    var priA: String? = nil
+    var priB: String? = nil
+    var priC: String? = nil
+    var priD: String? = nil
+    var priE: String? = nil
+    var priF: String? = nil
     
     override func viewDidLoad() {
         super.viewDidLoad()
+    
 
         // revealViewController - Services
-    
-    lblCreative.text = String(creativeP)
-    lblSignature.text = String(signatureP)
-    lblSenior.text = String(seniorP)
-    lblStyleone.text = String(s1P)
-    lblStyletwo.text = String(s2P)
-    lblStyle3.text = String(s3P)
-        
         
         if (revealViewController() != nil) {
             

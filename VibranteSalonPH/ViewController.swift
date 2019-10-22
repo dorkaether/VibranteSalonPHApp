@@ -7,16 +7,22 @@
 //
 
 import UIKit
+import AVFoundation
+
+
+var player: AVAudioPlayer?
+
 
 class ViewController: UIViewController {
-    
-    
-    // Outlets
+
     @IBOutlet weak var btnMenu: UIBarButtonItem!
     
 
     override func viewDidLoad() {
+        ViewController_MusicHelper.sharedHelper.playBackgroundMusic()
         super.viewDidLoad()
+        
+        
         
         // revealViewController - Home
         if (revealViewController() != nil) {

@@ -16,6 +16,10 @@ class ViewController_Gallery: UIViewController {
     @IBOutlet weak var collectionView: UICollectionView!
     
     var imgArr = [UIImage(named: "imageA"),UIImage(named: "imageB"),UIImage(named: "imageC"),UIImage(named: "imageD"),UIImage(named: "imageE")]
+    
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 

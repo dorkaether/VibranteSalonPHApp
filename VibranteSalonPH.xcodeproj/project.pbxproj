@@ -37,6 +37,8 @@
 		F2FCAEA0235B394C00036868 /* ViewController_Insta.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2FCAE9F235B394C00036868 /* ViewController_Insta.swift */; };
 		F2FCAEA4235B399500036868 /* ViewController_Twitter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2FCAEA3235B399500036868 /* ViewController_Twitter.swift */; };
 		F2FCAEA6235B42D700036868 /* ViewController_Help2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2FCAEA5235B42D700036868 /* ViewController_Help2.swift */; };
+		F2FCAEAA235C462F00036868 /* background.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F2FCAEA9235C462F00036868 /* background.mp3 */; };
+		F2FCAEAC235CCC3900036868 /* ViewController_MusicHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2FCAEAB235CCC3900036868 /* ViewController_MusicHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -95,6 +97,8 @@
 		F2FCAE9F235B394C00036868 /* ViewController_Insta.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Insta.swift; sourceTree = "<group>"; };
 		F2FCAEA3235B399500036868 /* ViewController_Twitter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Twitter.swift; sourceTree = "<group>"; };
 		F2FCAEA5235B42D700036868 /* ViewController_Help2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_Help2.swift; sourceTree = "<group>"; };
+		F2FCAEA9235C462F00036868 /* background.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = background.mp3; path = ../../../../../../Downloads/background.mp3; sourceTree = "<group>"; };
+		F2FCAEAB235CCC3900036868 /* ViewController_MusicHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_MusicHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,6 +164,7 @@
 				F2053046234EEE4100C5CA9C /* ViewController_Article.swift */,
 				F205304A234F240400C5CA9C /* ViewController_MeetTheTeam.swift */,
 				F2F11CA5234F5AFD0008553C /* ViewController_Help1.swift */,
+				F2FCAEAB235CCC3900036868 /* ViewController_MusicHelper.swift */,
 				F20530002341F51B00C5CA9C /* Main.storyboard */,
 				F2FCAEA5235B42D700036868 /* ViewController_Help2.swift */,
 				F2FCAEA3235B399500036868 /* ViewController_Twitter.swift */,
@@ -169,6 +174,7 @@
 				F2F11CEE235AF2A50008553C /* ViewController_Query.swift */,
 				F2F11CEC2356B75B0008553C /* ViewController_Login.swift */,
 				F2F11CA92350C3BB0008553C /* ViewController_admin.swift */,
+				F2FCAEA9235C462F00036868 /* background.mp3 */,
 				F20530082341F52100C5CA9C /* LaunchScreen.storyboard */,
 				F205302D2341FAE800C5CA9C /* Assets.xcassets */,
 				F20530312342079A00C5CA9C /* SWRevealViewController.h */,
@@ -312,6 +318,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2FCAEAA235C462F00036868 /* background.mp3 in Resources */,
 				F205300A2341F52100C5CA9C /* LaunchScreen.storyboard in Resources */,
 				F205302E2341FAE800C5CA9C /* Assets.xcassets in Resources */,
 				F20530022341F51B00C5CA9C /* Main.storyboard in Resources */,
@@ -352,6 +359,7 @@
 				F2052FFF2341F51B00C5CA9C /* ViewController.swift in Sources */,
 				F205303823448EF300C5CA9C /* ViewController - Services.swift in Sources */,
 				F2053047234EEE4100C5CA9C /* ViewController_Article.swift in Sources */,
+				F2FCAEAC235CCC3900036868 /* ViewController_MusicHelper.swift in Sources */,
 				F205303A234499FC00C5CA9C /* ViewController_Gallery.swift in Sources */,
 				F2052FFD2341F51B00C5CA9C /* AppDelegate.swift in Sources */,
 				F2F11CEF235AF2A50008553C /* ViewController_Query.swift in Sources */,
