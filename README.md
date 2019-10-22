@@ -71,7 +71,7 @@ But this is the end, thank you for reading.
 
 As per the result of the [third milestone](https://github.com/dorkaether/VibranteSalonPHApp/projects/3), some changes will be implemented:
 
-[![UPDATE: Issue Fixed!](https://img.shields.io/badge/UPDATE-Issue%20Fixed!-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/issues/1) Issue #2 & #3 has been fixed!
+[![UPDATE: Issue Fixed!](https://img.shields.io/badge/UPDATE-Issue%20Fixed!-brightgreen)](https://github.com/dorkaether/VibranteSalonPHApp/issues/1) Issue #3 has been fixed!
 
 [![UPDATE: Sub-milestone reached!](https://img.shields.io/badge/UPDATE-Sub--milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp/projects/2) The following sub-milestones has been achieved:
 
@@ -105,6 +105,8 @@ Home page
 
 About Team page
 
+Services page
+
 Help Implementation II
 
 About Vibrante page
@@ -120,8 +122,6 @@ Location Map (of Contact Us page)
 Admin page (sub-page of About Team) (Issue #3)
 
 Help page (Issue #3)
-
-Services page (Issue #2)
 
 **QoLs**:
 
