@@ -12,42 +12,26 @@ This repository's main purpose is to *keep track of the progress made* for this 
 
 ---
 
-## !! NEW UPDATE !!
+## !! NEW UPDATE !! 08-15-22
 Changelog:
 
 [![UPDATE: Milestone Reached!](https://img.shields.io/badge/UPDATE-Milestone%20Reached!-blue)](https://github.com/dorkaether/VibranteSalonPHApp#-new-update-) **Application Finished!**
 
-An open letter to the reader, the interested, the friend, and the professor:
+So... hi.
 
-After this project, I realized that while I do like programming, it isn't for me.
+I decided to make some changes here, namely the whole readme because I am, once again, enrolled to IT - but in a different school (five points to the person who makes the connection what school I came from and and where I came back to-). To the people that is probably confused, once upon a time I was a very high esteemed student. Life got in the way, and this project was my only connection (at that time) to the outside world, hanging on by a single thin thread.
 
-A little history - my interest in computers started back when I was a child, but the only reason at that time was *it's a new thing!!!* and me being curious wanted to try it out. After a week, I have probably know a lot compared to my parents at the time and what gained my interest was games.
+The thread snapped when I passed this class, not because I deserved it but rather out of pity, ending forever who was known to be the 'coding god'. No, I am not exaggerating.
 
-I discovered Linux in 2012, and while I was content doing small shell scripts and making the OS my own (and most of my knowledge was thanks to Arch), I didn't really think that I would go beyond that. After 3 years of dabbling with programming languages, I can safetly say that I know Shell, C++, Python, Java, HTML/CSS, Javascript, and finally Swift; at least the most basic functions.
+I am not saying I regret taking this class. If I would be honest, I learned a lot. It made me appreciate the developers that make mobile applications on iOS because it is very hard - but the process of it I had fun. I also learned, that it is okay to have references. Not really copying but also not really being original. Life is art - we reference everything. There is no one who is original in their work, it just only seemed that way because some people decided to push forward and present that work to the eyes of the public. No one is copying anyone else unless it is exactly the same - step by step.
 
-However, as I said I never dreamed on going this far. Computers are my hobby and I think they'll always be my hobby.
+This one is full of references, I admit, but the whole code here was typed by our own hands - yes, ours! This project was made by duo Finn (me, I refuse to put my deadname in this update) and Marvin.
 
-If you haven't realized it by now, this is a goodbye letter to Programming; at least to the track. I joined this track back when Animation was dissolved and I was already content at that time - but I had to pick either Web Dev't or this. I had no interest in Web, so here I am.
+Why is it here, the project? To make it as a resource for budding new programmers. I always do that, on my old GitHub account that I can't seem to access anymore ([dracaether, which is here by the way if you want more references](https://github.com/dracaether) - I will probably migrate them all here at some point so I will keep that link up until I revamp everything here). The dots and shell files are my linux-related stuff, I don't think you would want to touch those unless you're a linux (or arguably a mac?) user? Anyways.
 
-Programming, I stayed with you for like a semester. Before that, I had C++, Python and Java. I had fun, really I do; but I can't take the stress, the late nights working on a code - *people relying on me, telling me I was a coding god and I should know what I am doing*.
+*God, this is becoming more of a full blown essay than what I needed to say...*
 
-For three years I barely drew - half the reason because I decided to focus on you. The other half? My own parents, once upon a time, told me that I can't be an artist, for I will never earn money in doing so.
-
-All my life I wanted to be an artist, an animator. I rather tell my stories through pictures instead of words.
-
-Yes I may be somewhat decent when it comes to fine arts, yeah I may not be a good artist when it comes to realistic styles. But I have fun drawing. I *still* have fun drawing without a care in a world and what would people think.
-
-Another reason why I can't invest in Programming anymore: My stresses in life is still haunting me.
-
-I wanted to escape life so bad, and I almost succeeded it too; mais j'ai promis à ma princesse...
-
-Programmation! Merci pour tout... mais il est temps pour moi de partir. c:
-
-And here's the time that I leave this project to my partner, Marvin Son. While this repo will stay up and still stay under my name, he now fully owns it. 
-
-Marvin, merci beaucoup. Thank you very much. You're a good kid, not a bad partner. You tried your best and we pulled through! I'm sorry that this is the time we part, I hope whatever you learned during the development of our application, you know which is right and wrong to do. I know we should definitely stop using images hahaha!
-
-But this is the end, thank you for reading.
+Anyways, this is the start of a new dawn. I hope I can survive it this time. 화이팅!
 
 ---
 
@@ -56,13 +40,13 @@ But this is the end, thank you for reading.
 
 ---
 
-*Je crois que si je pouvais voir le regard dans tes yeux*
+*We ain't falling like a domino*
 
-*Ce n'est pas ce qu'il semble, ce n'est pas un rêve, c'est une vie merveilleuse*
+*Hold me 잘하고 있다고*
 
-*Alors tombe les étoiles dans mes bras si tu es prêt à voler*
+*We ain't falling like a domino*
 
-*Mais je dois te laisser partir*
+*Like a domino, domino*
 
 ---
 
