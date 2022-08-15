@@ -4,7 +4,7 @@
 
 **Vibrante Salon PH** is an advertisement application made for iOS devices, written in Objective-C and Swift.
 
-This application is made for the subject code **ITE 237 - Advanced Programming I**. This is nothing but a final project app to pass the class. If you somehow managed to find this repository *without* knowing me (Dorky) and/or this class, I applaud you. You're free to look if you want, I guess.
+This application is made for the subject code **ITE 237 - Advanced Programming I**. This is nothing but a final project app to pass the class. If you somehow managed to find this repository *without* knowing me (Finn / Kiwi / Erin) and/or this class, I applaud you. You're free to look if you want, I guess.
 
 If, however, you find this one because you have the link - then welcome.
 
