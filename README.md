@@ -25,7 +25,7 @@ The thread snapped when I passed this class, not because I deserved it but rathe
 
 I am not saying I regret taking this class. If I would be honest, I learned a lot. It made me appreciate the developers that make mobile applications on iOS because it is very hard - but the process of it I had fun. I also learned, that it is okay to have references. Not really copying but also not really being original. Life is art - we reference everything. There is no one who is original in their work, it just only seemed that way because some people decided to push forward and present that work to the eyes of the public. No one is copying anyone else unless it is exactly the same - step by step.
 
-This one is full of references, I admit, but the whole code here was typed by our own hands - yes, ours! This project was made by duo Finn (me, I refuse to put my deadname in this update) and Marvin.
+This one is full of references, I admit, but the whole code here was typed by our own hands - yes, ours! This project was made by duo Kiwi (me, I refuse to put my deadname in this update) and Marvin.
 
 Why is it here, the project? To make it as a resource for budding new programmers. I always do that, on my old GitHub account that I can't seem to access anymore ([dracaether, which is here by the way if you want more references](https://github.com/dracaether) - I will probably migrate them all here at some point so I will keep that link up until I revamp everything here). The dots and shell files are my linux-related stuff, I don't think you would want to touch those unless you're a linux (or arguably a mac?) user? Anyways.
 
