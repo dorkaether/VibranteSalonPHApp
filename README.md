@@ -19,7 +19,7 @@ Changelog:
 
 So... hi.
 
-I decided to make some changes here, namely the whole readme because I am, once again, enrolled to IT - but in a different school (five points to the person who makes the connection what school I came from and and where I came back to-). To the people that is probably confused, once upon a time I was a very high esteemed student. Life got in the way, and this project was my only connection (at that time) to the outside world, hanging on by a single thin thread.
+I decided to make some changes here, namely the whole readme because I am, once again, enrolled to IT. To the people that is probably confused, once upon a time I was a very high esteemed student. Life got in the way, and this project was my only connection (at that time) to the outside world, hanging on by a single thin thread.
 
 The thread snapped when I passed this class, not because I deserved it but rather out of pity, ending forever who was known to be the 'coding god'. No, I am not exaggerating.
 
